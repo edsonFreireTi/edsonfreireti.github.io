@@ -1,2 +1,4 @@
 # edsonfreireti.github.io
-Site portfólio para divulgação dos trabalhos.
+Site portfólio para apresentação e divulgação de trabalhos.
+
+Desenvolvedor WEB e Mobile
